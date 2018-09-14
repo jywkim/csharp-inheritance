@@ -1,0 +1,11 @@
+/home/jonathan/Desktop/jywkim/csharp-inheritance/bin/Debug/netcoreapp2.1/csharp-inheritance.deps.json
+/home/jonathan/Desktop/jywkim/csharp-inheritance/bin/Debug/netcoreapp2.1/csharp-inheritance.runtimeconfig.json
+/home/jonathan/Desktop/jywkim/csharp-inheritance/bin/Debug/netcoreapp2.1/csharp-inheritance.runtimeconfig.dev.json
+/home/jonathan/Desktop/jywkim/csharp-inheritance/bin/Debug/netcoreapp2.1/csharp-inheritance.dll
+/home/jonathan/Desktop/jywkim/csharp-inheritance/bin/Debug/netcoreapp2.1/csharp-inheritance.pdb
+/home/jonathan/Desktop/jywkim/csharp-inheritance/obj/Debug/netcoreapp2.1/csharp-inheritance.csprojAssemblyReference.cache
+/home/jonathan/Desktop/jywkim/csharp-inheritance/obj/Debug/netcoreapp2.1/csharp-inheritance.csproj.CoreCompileInputs.cache
+/home/jonathan/Desktop/jywkim/csharp-inheritance/obj/Debug/netcoreapp2.1/csharp-inheritance.AssemblyInfoInputs.cache
+/home/jonathan/Desktop/jywkim/csharp-inheritance/obj/Debug/netcoreapp2.1/csharp-inheritance.AssemblyInfo.cs
+/home/jonathan/Desktop/jywkim/csharp-inheritance/obj/Debug/netcoreapp2.1/csharp-inheritance.dll
+/home/jonathan/Desktop/jywkim/csharp-inheritance/obj/Debug/netcoreapp2.1/csharp-inheritance.pdb
