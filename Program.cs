@@ -1,33 +1,20 @@
-using System;
-
 public class A
 {
-   private int value = 10;
-
-   public class B : A
-   {
-       public int GetValue()
-       {
-           return this.value;
-       }
-   }
+    public void Method1()
+    {
+        // Method implementation.
+    }
 }
 
-public class C : A
-{
-//    public int GetValue()
-//    {
-//        return this.value;
-//    }
-}
+public class B : A
+{ }
+
 
 public class Example
 {
-    public static void Main(string[] args)
+    public static void Main()
     {
-        var b = new A.B();
-        Console.WriteLine(b.GetValue());
+        B b = new B();
+        b.Method1();
     }
 }
-// The example displays the following output:
-//       10
