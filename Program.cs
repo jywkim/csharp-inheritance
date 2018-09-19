@@ -2,19 +2,14 @@ public class A
 {
     public void Method1()
     {
-        // Method implementation.
+        // Do something.
     }
 }
 
 public class B : A
-{ }
-
-
-public class Example
 {
-    public static void Main()
+    public override void Method1() // Generates CS0506.
     {
-        B b = new B();
-        b.Method1();
+        // Do something else.
     }
 }
