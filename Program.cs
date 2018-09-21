@@ -1,15 +1,12 @@
-public class A
+public abstract class A
 {
-    public void Method1()
-    {
-        // Do something.
-    }
+    public abstract void Method1();
 }
 
-public class B : A
+public class B : A // Generates CS0534.
 {
-    public override void Method1() // Generates CS0506.
+    public void Method3()
     {
-        // Do something else.
+        // Do something.
     }
 }
