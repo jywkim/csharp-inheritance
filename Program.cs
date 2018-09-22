@@ -1,12 +1,5 @@
-public abstract class A
-{
-    public abstract void Method1();
-}
+using System;
 
-public class B : A // Generates CS0534.
+public struct ValueStructure : ValueType // Generates CS0527.
 {
-    public void Method3()
-    {
-        // Do something.
-    }
 }
