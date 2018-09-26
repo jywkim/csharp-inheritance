@@ -1,15 +1,15 @@
 using System;
 
-public class SimpleClass
-{}
-
-public class Example
+namespace csharp_inheritance
 {
-    public static void Main()
-    {
-        SimpleClass sc = new SimpleClass();
-        Console.WriteLine(sc.ToString());
-    }
+  public class Program
+  {
+      public static void Main()
+      {
+          var packard = new Automobile("Packard", "Custom Eight", 1948);
+          Console.WriteLine(packard);
+      }
+  }
+  // The example displays the following output:
+  //        1948 Packard Custom Eight
 }
-// The example displays the following output:
-//        SimpleClass
